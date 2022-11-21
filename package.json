@@ -1,5 +1,5 @@
 {
-  "name": "First-Vuetify-Project",
+  "name": "vuetify-project",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
